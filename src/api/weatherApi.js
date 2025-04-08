@@ -1,6 +1,5 @@
 import axios from 'axios';
 
-// Using the OpenWeatherMap API - you'll need to get your own API key
 const API_KEY = '02bbdf7cb95dd683f0a72393e650f75e';
 const BASE_URL = 'https://api.openweathermap.org/data/2.5';
 
